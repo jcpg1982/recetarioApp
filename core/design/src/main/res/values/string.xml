@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_accept">Aceptar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_again">Volver a intentarlo</string>
+    <string name="action_closed_app">Cerrar aplicación</string>
+    <string name="action_config_manual">Config. manual</string>
+    <string name="action_active_gps">Activar GPS</string>
+    <string name="action_not_active_gps">No activar GPS</string>
+
+    <string name="dialog_accept_permission">Para un buen uso de la aplicación es necesario que habilite los permisos correspodientes</string>
+    <string name="dialog_config_permission">Para continuar con el uso de la aplicación es necesario que habilite los permisos de manera manual</string>
+    <string name="dialog_config_active_gps">Para continuar con el uso de la aplicación es necesario que habilite el GPS para mostrar los reportes mas cercanos a su ubicación, ¿Desea activar su GPS?</string>
+
+    <string name="attention">Atención</string>
+
+</resources>
